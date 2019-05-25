@@ -1,0 +1,27 @@
+Metadata-Version: 1.2
+Name: pysparse
+Version: 1.3.dev0
+Summary: Fast sparse matrix library for Python
+Home-page: pysparse.sf.net
+Author: Roman Geus, Dominique Orban, Daniel Wheeler
+Author-email: {hamsel,d-orban,wd15}@sf.net,
+Maintainer: PySparse Developers
+Maintainer-email: {hamsel,d-orban,wd15}@sf.net,
+License: BSD-style
+Download-URL: sf.net/projects/pysparse
+Description: 
+        Pysparse is a fast sparse matrix library for Python. It provides several sparse
+        matrix storage formats and conversion methods. It also implements a number of
+        iterative solvers, preconditioners, and interfaces to efficient factorization
+        packages. Both low-level and high-level interfaces are available, each with
+        different strengths. PySparse is distributed under the FreeBSD license.
+        
+        R. Geus    <hamsel@users.sf.net>
+        D. Orban   <d-orban@users.sf.net>
+        D. Wheeler <wd15@users.sf.net>
+        
+Platform: Windows
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
